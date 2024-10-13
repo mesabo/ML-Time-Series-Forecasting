@@ -168,23 +168,3 @@ Additionally, customize the model selection and hyperparameters according to you
 │       └── constants.py
 └── time_serie_gpu.log
 ```
-
-# Export install packages in the current environment
-
-> pip list --format=freeze > requirements.txt
-
-# Submit a code on gpu
-
-> sbatch /home/user/path_to/TimeseriesForecasting/run-gpu1.sh
-
-# Install tensorflow gpu
-
-> pip install tensorflow[and-cuda]
-
-# List running process
-
-> watch -n 5 nvidia-smi
-
-# Torch is availabnle here
-
-> https://pytorch.org/get-started/locally/
