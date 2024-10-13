@@ -56,7 +56,7 @@ long-term, and provides implementations for the following models:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/mesabo/TimeSeriesForecasting.git
+   https://github.com/mesabo/ML-Time-Series-Forecasting.git
    ```
 
 2. Download the UCI Household Power dataset text files into the `input/` directory.

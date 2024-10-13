@@ -8,7 +8,7 @@ pwd
 source activate time_serie_torch
 
 # Default value for SCRIPT_DIR
-DEFAULT_SCRIPT_DIR="/home/23r9802_chen/messou/TimeSeriesForecasting"
+DEFAULT_SCRIPT_DIR="/home/messou/TimeSeriesForecasting"
 
 # Attempt to determine the directory of the script
 SCRIPT_DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
