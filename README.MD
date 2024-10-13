@@ -1,6 +1,7 @@
 # @Author
 
 Created on 20/03/2024
+Updated on 12/12/2024
 🚀 Welcome to the Awesome Python Script 🚀
 
 - User: mesabo
@@ -138,7 +139,6 @@ Additionally, customize the model selection and hyperparameters according to you
 │                   └── 7_2_prediction.png
 ├── requirements.txt
 ├── run.sh
-├── sample.py
 ├── src
 │   ├── __init__.py
 │   ├── __pycache__
