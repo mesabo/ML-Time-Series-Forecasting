@@ -168,3 +168,12 @@ Additionally, customize the model selection and hyperparameters according to you
 │       └── constants.py
 └── time_serie_gpu.log
 ```
+
+@inproceedings{messou2024enhancing,
+  title={Enhancing Short-Term Load Forecasting in Internet of Things: A Hybrid Attention-based CNN-BiLSTM with Data Augmentation Approach},
+  author={Messou, Franck Junior Aboya and Chen, Jinhua and Katabarwa, Robert and Zhao, Zihan and Yu, Keping},
+  booktitle={2024 IEEE 100th Vehicular Technology Conference (VTC2024-Fall)},
+  pages={1--6},
+  year={2024},
+  organization={IEEE}
+}
